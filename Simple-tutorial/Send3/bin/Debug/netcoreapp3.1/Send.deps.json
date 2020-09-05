@@ -1,0 +1,103 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Send/1.0.0": {
+        "dependencies": {
+          "Slb.Drilling.ThinRabbit": "4.1.272"
+        },
+        "runtime": {
+          "Send.dll": {}
+        }
+      },
+      "Microsoft.ApplicationInsights/2.13.1": {
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "4.6.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ApplicationInsights.dll": {
+            "assemblyVersion": "2.13.1.12554",
+            "fileVersion": "2.13.1.12554"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "RabbitMQ.Client/5.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.1.2.0"
+          }
+        }
+      },
+      "Slb.Drilling.ThinRabbit/4.1.272": {
+        "dependencies": {
+          "Microsoft.ApplicationInsights": "2.13.1",
+          "Newtonsoft.Json": "11.0.2",
+          "RabbitMQ.Client": "5.1.2",
+          "System.Diagnostics.DiagnosticSource": "4.6.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Slb.Drilling.ThinRabbit.dll": {
+            "assemblyVersion": "4.1.272.0",
+            "fileVersion": "4.1.272.0"
+          }
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/4.6.0": {}
+    }
+  },
+  "libraries": {
+    "Send/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ApplicationInsights/2.13.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BQhLmYR06Z8TVCdxnr8WOhhovJHtqYRNeB5gePBdQ4uDOE8D4IK9HW9i6a3llELz1QHv4HtFpku6dpXMGnO22g==",
+      "path": "microsoft.applicationinsights/2.13.1",
+      "hashPath": "microsoft.applicationinsights.2.13.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "RabbitMQ.Client/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xhj+un0pw4N7h37SZWptxl/NEv7f1RLHwZhXjqzkCm3w3IdbFJh+HjVyPaciD848BUYLGoEQzadx90nShsbs4Q==",
+      "path": "rabbitmq.client/5.1.2",
+      "hashPath": "rabbitmq.client.5.1.2.nupkg.sha512"
+    },
+    "Slb.Drilling.ThinRabbit/4.1.272": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rRcGB8MGYCtXLkYscTKuIQ5DE2nbyBic4NtdNG6mEy4OTh7c0Ol6BFhUCe18Gf7+uynnAfWQmXm4Pal39vf/sg==",
+      "path": "slb.drilling.thinrabbit/4.1.272",
+      "hashPath": "slb.drilling.thinrabbit.4.1.272.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mbBgoR0rRfl2uimsZ2avZY8g7Xnh1Mza0rJZLPcxqiMWlkGukjmRkuMJ/er+AhQuiRIh80CR/Hpeztr80seV5g==",
+      "path": "system.diagnostics.diagnosticsource/4.6.0",
+      "hashPath": "system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512"
+    }
+  }
+}

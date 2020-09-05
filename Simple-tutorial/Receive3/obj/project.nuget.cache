@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AX7kNM0Zy/mvGQvgnAv9hYGntACZHhWWWW9l6soUnLqUKazto74Laimm459R90Bzw/wWxlJBGu+cy3TFgIaweA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LZhang77\\Documents\\AA Works\\J'apprend\\RabbitMQ\\Receive3\\Receive3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LZhang77\\.nuget\\packages\\microsoft.applicationinsights\\2.13.1\\microsoft.applicationinsights.2.13.1.nupkg.sha512",
+    "C:\\Users\\LZhang77\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\LZhang77\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512",
+    "C:\\Users\\LZhang77\\.nuget\\packages\\slb.drilling.thinrabbit\\4.1.272\\slb.drilling.thinrabbit.4.1.272.nupkg.sha512",
+    "C:\\Users\\LZhang77\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\LZhang77\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

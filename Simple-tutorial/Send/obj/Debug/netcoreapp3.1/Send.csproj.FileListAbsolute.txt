@@ -1,0 +1,31 @@
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.exe
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.pdb
+C:\Users\LZhang77\Documents\AA Works\J'apprend\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache
+C:\TEST\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.exe
+C:\TEST\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\TEST\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+C:\TEST\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+C:\TEST\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\TEST\RabbitMQ\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\TEST\RabbitMQ\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\TEST\RabbitMQ\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\TEST\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+C:\TEST\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\TEST\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+C:\TEST\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\TEST\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+C:\TEST\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\TEST\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.pdb
+C:\TEST\RabbitMQ\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache
